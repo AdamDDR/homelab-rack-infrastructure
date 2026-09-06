@@ -1,0 +1,26 @@
+# Sensitive Environment Variables
+.env
+.env.*
+!.env.example
+
+# SSH, TLS & WireGuard Keys
+*.key
+*.pem
+*.crt
+*.pfx
+*.pub
+wireguard_private_key
+tailscale_auth_key
+
+# Backup archives & dumps
+*.tar.gz
+*.backup
+*.sql
+*.img
+*.iso
+
+# Operating System & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
