@@ -34,6 +34,6 @@ Local Client ➔ Sophos DNS (10.0.0.1) ➔ NPM (CT 111 \- Let's Encrypt SSL) ➔
 
 ## **📚 Setup Guides**
 
-* **Public Routing:** [Namecheap, Cloudflare & Tunnel Setup](services/edge-ingress/Public.md)  
-* **Internal Routing & SSL:** [Nginx Proxy Manager Setup](services/edge-ingress/README.md)  
-* **Internal DNS:** [Sophos Split-Horizon Setup](services/edge-ingress/Internal-DNS-Setup.md)
+* **Public Routing:** [Namecheap, Cloudflare & Tunnel Setup](https://github.com/AdamDDR/homelab-rack-infrastructure/blob/88812fffa2fd1483183b70852f5c8414058231c8/services/edge-ingress/Public%20Ingress%20(Namecheap%2C%20Cloudflare%20%26%20Tunnel).md)  
+* **Internal Routing & SSL:** [Nginx Proxy Manager Setup](https://github.com/AdamDDR/homelab-rack-infrastructure/blob/88812fffa2fd1483183b70852f5c8414058231c8/services/edge-ingress/Internal%20Proxy%20Setup.md)  
+* **Internal DNS:** [Sophos Split-Horizon Setup](https://github.com/AdamDDR/homelab-rack-infrastructure/blob/main/services/edge-ingress/Internal%20DNS%20Setup.md)
